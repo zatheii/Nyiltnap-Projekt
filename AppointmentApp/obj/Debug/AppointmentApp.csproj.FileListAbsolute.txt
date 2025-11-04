@@ -1,0 +1,279 @@
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\AppointmentApp.exe.config
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\AppointmentApp.exe
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\AppointmentApp.pdb
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\MySql.Data.dll
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Buffers.dll
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Memory.dll
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\ZstdSharp.dll
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\MySql.Data.xml
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Buffers.xml
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Memory.xml
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.csproj.AssemblyReference.cache
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.AdminPanel.resources
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.UserInterface.resources
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.Login.resources
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.Properties.Resources.resources
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.csproj.GenerateResource.cache
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\Appointm.BE898AA9.Up2Date
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.exe
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.pdb
+C:\Users\Maródi Kris 11\Downloads\keszorai-main\keszorai-main\asdasdnza\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.exe.config
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\AppointmentApp.exe.config
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\AppointmentApp.exe
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\AppointmentApp.pdb
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\Google.Protobuf.dll
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\MySql.Data.dll
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Buffers.dll
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.IO.Pipelines.dll
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Memory.dll
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\ZstdSharp.dll
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\Google.Protobuf.xml
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\MySql.Data.xml
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Buffers.xml
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.IO.Pipelines.xml
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Memory.xml
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.csproj.AssemblyReference.cache
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.exe.config
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.AdminPanel.resources
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.UserInterface.resources
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.Login.resources
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.Properties.Resources.resources
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.csproj.GenerateResource.cache
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.csproj.CoreCompileInputs.cache
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\Appointm.BE898AA9.Up2Date
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.exe
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.pdb
+C:\Users\marod\Downloads\AppointmentApp-master\AppointmentApp-master\AppointmentApp\obj\Debug\AppointmentApp.NewAppointment.resources
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\AppointmentApp.exe.config
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\AppointmentApp.exe
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\AppointmentApp.pdb
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\MySql.Data.xml
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\System.Buffers.xml
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\System.Memory.xml
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\obj\Debug\AppointmentApp.csproj.AssemblyReference.cache
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\obj\Debug\AppointmentApp.exe.config
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\obj\Debug\AppointmentApp.AdminPanel.resources
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\obj\Debug\AppointmentApp.NewAppointment.resources
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\obj\Debug\AppointmentApp.UserInterface.resources
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\obj\Debug\AppointmentApp.Login.resources
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\obj\Debug\AppointmentApp.Properties.Resources.resources
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\obj\Debug\AppointmentApp.csproj.GenerateResource.cache
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\obj\Debug\AppointmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\obj\Debug\Appointm.BE898AA9.Up2Date
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\obj\Debug\AppointmentApp.exe
+C:\Users\Maródi Kris 11\Desktop\Appointment app projektfileok\AppointmentApp\obj\Debug\AppointmentApp.pdb
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\AppointmentApp.exe.config
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\AppointmentApp.exe
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\AppointmentApp.pdb
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\MySql.Data.xml
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\System.Buffers.xml
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\System.Memory.xml
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\obj\Debug\AppointmentApp.csproj.AssemblyReference.cache
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\obj\Debug\AppointmentApp.exe.config
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\obj\Debug\AppointmentApp.AdminPanel.resources
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\obj\Debug\AppointmentApp.NewAppointment.resources
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\obj\Debug\AppointmentApp.UserInterface.resources
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\obj\Debug\AppointmentApp.Login.resources
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\obj\Debug\AppointmentApp.Properties.Resources.resources
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\obj\Debug\AppointmentApp.csproj.GenerateResource.cache
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\obj\Debug\AppointmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\obj\Debug\Appointm.BE898AA9.Up2Date
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\obj\Debug\AppointmentApp.exe
+C:\Users\Maródi Kris 11\Downloads\appointmentapp\nigger-main\AppointmentApp\obj\Debug\AppointmentApp.pdb
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\AppointmentApp.exe.config
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\AppointmentApp.exe
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\AppointmentApp.pdb
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\System.Memory.dll
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\MySql.Data.xml
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\System.Buffers.xml
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\obj\Debug\AppointmentApp.csproj.AssemblyReference.cache
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\obj\Debug\AppointmentApp.exe.config
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\obj\Debug\AppointmentApp.AdminPanel.resources
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\obj\Debug\AppointmentApp.NewAppointment.resources
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\obj\Debug\AppointmentApp.UserInterface.resources
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\obj\Debug\AppointmentApp.Login.resources
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\obj\Debug\AppointmentApp.Properties.Resources.resources
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\obj\Debug\AppointmentApp.csproj.GenerateResource.cache
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\obj\Debug\AppointmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\obj\Debug\Appointm.BE898AA9.Up2Date
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\obj\Debug\AppointmentApp.exe
+C:\Users\Lakatos Sándor\Desktop\projekt\AppointmentApp\obj\Debug\AppointmentApp.pdb
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\AppointmentApp.exe.config
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\AppointmentApp.exe
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\AppointmentApp.pdb
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\Google.Protobuf.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\MySql.Data.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\System.Buffers.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\System.IO.Pipelines.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\System.Memory.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.csproj.AssemblyReference.cache
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.exe.config
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.AdminPanel.resources
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.NewAppointment.resources
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.UserInterface.resources
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.Login.resources
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.Properties.Resources.resources
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.csproj.GenerateResource.cache
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.csproj.CoreCompileInputs.cache
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\obj\Debug\Appointm.BE898AA9.Up2Date
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.exe
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.pdb
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\obj\Debug\AppointmentApp.csproj.AssemblyReference.cache
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\obj\Debug\AppointmentApp.exe.config
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\obj\Debug\AppointmentApp.exe
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\obj\Debug\AppointmentApp.pdb
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\AppointmentApp.exe.config
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\AppointmentApp.exe
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\AppointmentApp.pdb
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\Google.Protobuf.pdb
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\Google.Protobuf.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\MySql.Data.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\System.Buffers.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\System.IO.Pipelines.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\System.Memory.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\obj\Debug\AppointmentApp.AdminPanel.resources
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\obj\Debug\AppointmentApp.NewAppointment.resources
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\obj\Debug\AppointmentApp.UserInterface.resources
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\obj\Debug\AppointmentApp.Login.resources
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\obj\Debug\AppointmentApp.Properties.Resources.resources
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\obj\Debug\AppointmentApp.csproj.GenerateResource.cache
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\obj\Debug\AppointmentApp.csproj.CoreCompileInputs.cache
+C:\Users\bazsibby\Documents\#kurvaszakirakmegeszi\.Nyiltnap\AppointmentAppTest\obj\Debug\Appointm.BE898AA9.Up2Date
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\AppointmentApp.exe.config
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\AppointmentApp.exe
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\AppointmentApp.pdb
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\BouncyCastle.Cryptography.xml
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\Google.Protobuf.pdb
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\Google.Protobuf.xml
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\K4os.Compression.LZ4.xml
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\K4os.Hash.xxHash.xml
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\MySql.Data.xml
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\System.Buffers.xml
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\System.IO.Pipelines.xml
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\System.Memory.xml
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\System.Numerics.Vectors.xml
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\#suli\#Nyiltnap\AppointmentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\#suli\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.csproj.AssemblyReference.cache
+E:\#suli\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.exe.config
+E:\#suli\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.AdminPanel.resources
+E:\#suli\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.NewAppointment.resources
+E:\#suli\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.UserInterface.resources
+E:\#suli\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.Login.resources
+E:\#suli\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.Properties.Resources.resources
+E:\#suli\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.csproj.GenerateResource.cache
+E:\#suli\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.csproj.CoreCompileInputs.cache
+E:\#suli\#Nyiltnap\AppointmentApp\obj\Debug\Appointm.BE898AA9.Up2Date
+E:\#suli\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.exe
+E:\#suli\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.pdb
