@@ -60,7 +60,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(80, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Foglalas törlése";
+            this.label1.Text = "Foglalás törlése";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
@@ -85,9 +85,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(21, 35);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(58, 13);
+            this.label3.Size = new System.Drawing.Size(60, 13);
             this.label3.TabIndex = 4;
-            this.label3.Text = "Foglalas Id";
+            this.label3.Text = "Foglalás ID";
             // 
             // foglalastorl
             // 
@@ -95,7 +95,7 @@
             this.foglalastorl.Name = "foglalastorl";
             this.foglalastorl.Size = new System.Drawing.Size(155, 38);
             this.foglalastorl.TabIndex = 5;
-            this.foglalastorl.Text = "Foglalas torlese";
+            this.foglalastorl.Text = "Foglalás törlése";
             this.foglalastorl.UseVisualStyleBackColor = true;
             this.foglalastorl.Click += new System.EventHandler(this.foglalastorl_Click);
             // 
@@ -178,8 +178,7 @@
             this.Controls.Add(this.dataGridViewFoglalasokad);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "AdminPanel";
-            this.ShowIcon = false;
-            this.Text = "   ";
+            this.Text = "Admin Panel";
             this.Load += new System.EventHandler(this.AdminPanel_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewFoglalasokad)).EndInit();
             this.ResumeLayout(false);

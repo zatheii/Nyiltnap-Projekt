@@ -53,6 +53,7 @@ namespace AppointmentApp
 
         private void NewAppointment_Click(object sender, EventArgs e)
         {
+            
             var newAppointmentForm = new NewAppointment();
             newAppointmentForm.Show(); 
             this.Hide();
@@ -68,6 +69,12 @@ namespace AppointmentApp
         private void Form1_Load(object sender, EventArgs e)
         {
 
+            NewAppointment.TabIndex = 0;
+            DarkModeButton.TabIndex = 1;
+            LanguageChange.TabIndex = 2;
+            dataGridViewFoglalasok.TabIndex = 3;
+
+            this.ActiveControl = NewAppointment;
             string connectionString = "Server=localhost;Database=appappdb;Uid=root; ";
             SqlConnection connection = new SqlConnection(connectionString);
 
@@ -123,7 +130,6 @@ namespace AppointmentApp
                 LanguageChange.Text = "Switch to English";
                 DarkModeButton.Text = "Sötét mód";
                 NewAppointment.Text = "Új időpont";
-                isEnglish = !isEnglish;
                 isEnglish = !isEnglish;
                 return;
             }

@@ -10,6 +10,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace AppointmentApp
 {
@@ -35,6 +36,12 @@ namespace AppointmentApp
 
         private void NewAppointment_Load(object sender, EventArgs e)
         {
+            nev.TabIndex = 0;
+            taj.TabIndex = 1;
+            datum.TabIndex = 2;
+            doktorid.TabIndex = 3;
+            newappointmentbutton.TabIndex = 4;
+
             string connectionString = "Server=localhost;Database=appappdb;Uid=root; ";
             string query = @"
                         SELECT 
@@ -140,7 +147,7 @@ namespace AppointmentApp
 
         private void nev_TextChanged(object sender, EventArgs e)
         {
-
+            
         }
     }
 }

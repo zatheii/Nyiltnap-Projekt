@@ -277,3 +277,34 @@ E:\#suli\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.csproj.CoreCompileInp
 E:\#suli\#Nyiltnap\AppointmentApp\obj\Debug\Appointm.BE898AA9.Up2Date
 E:\#suli\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.exe
 E:\#suli\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.pdb
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\AppointmentApp.exe.config
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\AppointmentApp.exe
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\AppointmentApp.pdb
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\MySql.Data.xml
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\System.Buffers.xml
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\System.Memory.xml
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.csproj.AssemblyReference.cache
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.exe.config
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.AdminPanel.resources
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.NewAppointment.resources
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.UserInterface.resources
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.Login.resources
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.Properties.Resources.resources
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.csproj.GenerateResource.cache
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\obj\Debug\Appointm.BE898AA9.Up2Date
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.exe
+C:\Users\Maródi Kris 11\Desktop\#Nyiltnap\AppointmentApp\obj\Debug\AppointmentApp.pdb

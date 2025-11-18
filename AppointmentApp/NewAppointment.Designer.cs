@@ -44,7 +44,7 @@
             // 
             // nev
             // 
-            this.nev.Location = new System.Drawing.Point(12, 34);
+            this.nev.Location = new System.Drawing.Point(12, 32);
             this.nev.Name = "nev";
             this.nev.Size = new System.Drawing.Size(210, 20);
             this.nev.TabIndex = 0;
@@ -62,7 +62,7 @@
             // 
             // taj
             // 
-            this.taj.Location = new System.Drawing.Point(13, 87);
+            this.taj.Location = new System.Drawing.Point(11, 86);
             this.taj.Name = "taj";
             this.taj.Size = new System.Drawing.Size(210, 20);
             this.taj.TabIndex = 0;
@@ -72,9 +72,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(9, 68);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(65, 13);
+            this.label3.Size = new System.Drawing.Size(68, 13);
             this.label3.TabIndex = 1;
-            this.label3.Text = "TAJ-számod";
+            this.label3.Text = "TAJ-számod:";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
@@ -82,9 +82,9 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(12, 118);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(170, 13);
+            this.label4.Size = new System.Drawing.Size(173, 13);
             this.label4.TabIndex = 3;
-            this.label4.Text = "Dátum (ÉÉÉÉ-HH-NN ÓÓ:PP:MM)";
+            this.label4.Text = "Dátum (ÉÉÉÉ-HH-NN ÓÓ:PP:MM):";
             // 
             // datum
             // 
@@ -98,9 +98,9 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(12, 173);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(97, 13);
+            this.label5.Size = new System.Drawing.Size(100, 13);
             this.label5.TabIndex = 5;
-            this.label5.Text = "Doktor azonosítója";
+            this.label5.Text = "Doktor azonosítója:";
             // 
             // doktorid
             // 

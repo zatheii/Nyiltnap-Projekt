@@ -22,6 +22,13 @@ namespace AppointmentApp
 
         private void AdminPanel_Load(object sender, EventArgs e)
         {
+            textBoxFoglalasId.TabIndex = 0;
+            foglalastorl.TabIndex = 1;
+            txtDoktorId.TabIndex = 2;
+            txtDoktorNev.TabIndex = 3;
+            txtSzakterulet.TabIndex = 4;
+            doktorfelv.TabIndex = 5;
+
             LoadFoglalasok();
         }
 
